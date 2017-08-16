@@ -10,3 +10,5 @@ bootstrap响应式页面
 
 @update: 2017-08-16 22:06
 
+@version: 1.0
+
